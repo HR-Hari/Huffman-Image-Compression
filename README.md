@@ -13,7 +13,7 @@ This repository provides **lossless Huffman image compression** implemented in b
 
 ## Getting Started
 
-### 🐍 Python
+### Python
 
 To use the Python GUI version:
 
@@ -32,7 +32,7 @@ To use the Python GUI version:
     * Save and decompress `.huff` files.
     * View the **Compression Ratio** displayed directly in the GUI.
 
-### 🔢 MATLAB / Octave
+### MATLAB / Octave
 
 To use the MATLAB or Octave scripts:
 
